@@ -1,6 +1,7 @@
 # 🚀 **Senior DevOps Engineers Bootcamp**
 **Focus Areas:** Git • Jenkins • Docker • AWS Cloud • Terraform • Ansible • Prometheus  
 **Category:** Professional Development / Continuous Learning  
+**Program commencement:** December 2024
 
 ---
 
@@ -23,7 +24,7 @@ Over 10 months, participants engage in real-world lab environments covering mode
 
 ## 3. 🧰 Core Modules  
 
-| Module | Key Tools | Topics | Learning Outcomes |
+| Module | Key Tools/Topics | Learning Outcomes |
 |---------|--------------------|-------------------|
 | **1. Version Control & Collaboration** | Git, GitHub, GitLab | Branching, merging, CI triggers, and workflow automation |
 | **2. Continuous Integration** | Jenkins | Build pipelines, testing automation, artifact management |
