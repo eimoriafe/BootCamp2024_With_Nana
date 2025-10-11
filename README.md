@@ -5,7 +5,7 @@
 
 **Author of this documentation**: Emmanuel E. Imoriafe
 
-My high-level description of my experience gained on this world class virtual programme.
+High-level description of my experience gained on this world class virtual programme.
 ---
 
 ## 1. 📘 Overview  
