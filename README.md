@@ -1,13 +1,15 @@
 # 🚀 **Senior DevOps Engineers Bootcamp**
-**Focus Areas:** Git • Jenkins • Docker • AWS Cloud • Terraform • Ansible • Prometheus  
+**Focus Areas:** Linux * Git • Jenkins • Docker • AWS Cloud • Terraform • Ansible • Prometheus  
 **Category:** Professional Development / Continuous Learning  
 **Program commencement:** December 2024
 
+**Author of this documentation**: Emmanuel E. Imoriafe
+My high-level description of my experience gained on this world class virtual programme.
 ---
 
 ## 1. 📘 Overview  
 
-The **Senior DevOps Engineers Bootcamp** is an intensive, hands-on training program designed to advance the skills of experienced IT professionals in **cloud automation, CI/CD, infrastructure-as-code, and observability**.  
+The **Senior DevOps Engineers Bootcamp** is an intensive, hands-on training program from **Tech with Nana** designed to advance the skills of experienced IT professionals in **cloud automation, CI/CD, infrastructure-as-code, and observability**.  
 Over 10 months, participants engage in real-world lab environments covering modern DevOps toolchains and enterprise deployment pipelines — from source control to cloud infrastructure management.  
 
 ---
