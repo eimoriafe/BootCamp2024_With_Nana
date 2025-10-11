@@ -4,6 +4,7 @@
 **Program commencement:** December 2024
 
 **Author of this documentation**: Emmanuel E. Imoriafe
+
 My high-level description of my experience gained on this world class virtual programme.
 ---
 
