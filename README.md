@@ -11,7 +11,7 @@ High-level description of my experience gained on this world class virtual progr
 ## 1. 📘 Overview  
 
 The **Senior DevOps Engineers Bootcamp** is an ongoing intensive, hands-on training program from **Tech with Nana** designed to advance the skills of experienced IT professionals in **cloud automation, CI/CD, infrastructure-as-code, and observability**.  
-Over 10 months, participants engage in real-world lab environments covering modern DevOps toolchains and enterprise deployment pipelines — from source control to cloud infrastructure management.  
+Over the past months, I have been engaged in real-world lab environments covering modern DevOps toolchains and enterprise deployment pipelines — from source control to cloud infrastructure management.  
 
 ---
 
